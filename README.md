@@ -5,7 +5,7 @@
 
 ### 👦  Who am I?
 
-**💻 Full-Stack Software Engineer, 🚀 and adventurer.**
+**💻 Solution Architect | Software Engineer & Engineering Lead , 🚀 and adventurer.**
 
 - 🌱 I’m currently working on **KMP**
 - 🌱 I’m currently playing with on **GitHub Actions for CI/CD**
