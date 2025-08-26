@@ -10,10 +10,6 @@
 - 🌱 I’m currently working on **KMP**
 - 🌱 I’m currently playing with on **GitHub Actions for CI/CD**
 
-- 👯 I’m looking to collaborate on [Expensify App](https://github.com/Expensify/App)
-
-- 🤝 I’m looking for help with **KMP**
-
 - 📫 How to reach me **mirfanarshad17@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-irfan-arshad-a8427a71/](https://www.linkedin.com/in/muhammad-irfan-arshad-a8427a71/)
