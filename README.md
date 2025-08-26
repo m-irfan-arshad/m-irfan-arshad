@@ -7,8 +7,6 @@
 
 **💻 Solution Architect | Software Engineer & Engineering Lead , 🚀 and adventurer.**
 
-- 🌱 I’m currently working on **KMP**
-- 🌱 I’m currently playing with on **GitHub Actions for CI/CD**
 
 - 📫 How to reach me **mirfanarshad17@gmail.com**
 
